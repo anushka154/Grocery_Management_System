@@ -1,0 +1,20 @@
+		 Welcome to Nature's Basket
+ Bill Number:8689
+ Customer Name:Harshali
+ Phone Number:7454666457
+ Customer Email :harshali@gmail.com
+==============================================
+ Products 			Qty		Price
+==============================================
+ Watermelon			1		70
+ Milk			1		40
+ Paneer			1		120
+ Rice			1		120
+ Pepsi			1		35
+ Egg			6		36
+
+==============================================
+ Sub Amount:		Rs.421.00
+ Tax Amount:		Rs.4.15
+ Total Amount:		Rs.425.15
+==============================================

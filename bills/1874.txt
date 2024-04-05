@@ -1,0 +1,17 @@
+		 Welcome to Nature's Basket
+ Bill Number:1874
+ Customer Name:Anushka
+ Phone Number:78454154597
+ Customer Email :anu@gmail.com
+==============================================
+ Products 			Qty		Price
+==============================================
+ Mangoes			1		110
+ Egg			5		30
+ Rice			3		135
+
+==============================================
+ Sub Amount:		Rs.275.00
+ Tax Amount:		Rs.2.30
+ Total Amount:		Rs.277.30
+==============================================

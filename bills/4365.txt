@@ -1,0 +1,20 @@
+		 Welcome to Nature's Basket
+ Bill Number:4365
+ Customer Name:Trupti
+ Phone Number:6578468455
+ Customer Email :trupti@gmail.com
+==============================================
+ Products 			Qty		Price
+==============================================
+ Potato			1		40
+ Green chillies			1		10
+ Whole wheat bread			2		20
+ Popcorn			1		25
+ Chocolates			1		30
+ Oranges			1		50
+
+==============================================
+ Sub Amount:		Rs.175.00
+ Tax Amount:		Rs.1.25
+ Total Amount:		Rs.176.25
+==============================================

@@ -1,0 +1,22 @@
+		 Welcome to Nature's Basket
+ Bill Number:5338
+ Customer Name:Ojasi
+ Phone Number:6784456112
+ Customer Email :oju@gmail.com
+==============================================
+ Products 			Qty		Price
+==============================================
+ Oranges			1		50
+ Tomato			1		30
+ Onion			1		50
+ Cheese			1		110
+ Egg			12		72
+ French bread			1		70
+ Cold Coffee			1		40
+ Lays			1		40
+
+==============================================
+ Sub Amount:		Rs.462.00
+ Tax Amount:		Rs.4.22
+ Total Amount:		Rs.466.22
+==============================================
